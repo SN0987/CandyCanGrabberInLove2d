@@ -22,3 +22,5 @@ Artist: Sn0987
 
 Im a bad artist :/ but the game is fun, im still new to the game dev community.
 
+
+CODE is open source and art is also open source, if your going to use any sounds or fonts here, then please credit their owners.
