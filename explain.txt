@@ -1,0 +1,26 @@
+
+world_state is the state of the games world
+
+Worlds.world is the world number which is saved
+
+snow particles
+
+
+buttons
+
+
+menu
+
+see is "how to play box"
+
+red_cane is red_cane i made some typing errors.
+
+
+Todo
+
+add world_two and world_three
+
+
+green cane
+
+
